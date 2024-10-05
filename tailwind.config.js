@@ -4,6 +4,9 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
     extend: {},
+    spacing: {
+      'heading': '88px',
+    },
     colors: {
       transparent: 'transparent',
       bckgrnd: '#f4f4f4',
